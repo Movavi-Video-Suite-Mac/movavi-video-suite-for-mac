@@ -14,14 +14,6 @@
 
 ---
 
-**Short Description:**  
-Movavi Video Suite Mac is an all-in-one editor for creating, converting, and enhancing videos with ease.  
-
-**SEO Description:**  
-Download Movavi Video Suite for Mac – full-featured video editor with screen recording, effects, and video conversion tools.  
-
----
-
 ## Installation via .dmg:
 
 1. Install the `.dmg` file using the button above.  
