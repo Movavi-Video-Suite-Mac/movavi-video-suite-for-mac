@@ -17,7 +17,7 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate # On Your Device.  
+2. Follow The On-Screen Steps To Install And Activate Movavi Video Suite On Your Device.  
 
 ---  
 
